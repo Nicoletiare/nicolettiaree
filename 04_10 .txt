@@ -1,0 +1,28 @@
+clase 04/10
+VARIABLE LISTA
+*	concatenar  es agregar algo a la lista 
+	lista ejemplo < c(listaejemplo, "mundo")
+	en este caso agrega el mundo a la lista al final
+
+	agregar una lista a otra la listaA se agrega a la listab
+	listaA<- c(listab, listaA)
+
+	listaA<- c("nicole",listaA)
+	agrega la palabra nicole como primera palabra al principio
+
+una funcion:es una operacion que recibe paramentros de entra y que adentro realiza una accion, que entre
+un resultado.
+
+
+listaAb[3]<- listaAb[1] 
+lo asiganado en el puesto 3 se coloca en le puesto 1 
+
+cambia le elmento 5 del al lista 
+listaAb[5]<- "rodrigo" 
+
+camila<- listaA
+para cambiar el nombre de una variable 
+
+FOR-LOOP
+la capacidad de for- loop es recorrer secuencia. 
+
